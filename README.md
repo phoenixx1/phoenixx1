@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phoenixx1)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://wakatime.com/share/@phoenixx1/1e031703-98e7-4e87-a8a4-5d660712c9ae.svg" height=370px/>

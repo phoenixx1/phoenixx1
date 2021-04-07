@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)  
-
-<img src="https://wakatime.com/share/@phoenixx1/1e031703-98e7-4e87-a8a4-5d660712c9ae.svg" height=370px/>
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true) <img src="https://wakatime.com/share/@phoenixx1/1e031703-98e7-4e87-a8a4-5d660712c9ae.svg" height=370px/>

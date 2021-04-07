@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true) 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   5 hrs 32 mins   ████████████████████████░   95.36 % 
+Python       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+```
 <!--END_SECTION:waka-->

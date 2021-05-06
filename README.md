@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 22 mins   ████████████████▓░░░░░░░░   67.06 % 
-JSX          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-JSON         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-CMake        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+JavaScript   4 hrs 29 mins   ██████████████▓░░░░░░░░░░   59.22 % 
+JSX          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+CMake        45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JSON         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+C++          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 <!--END_SECTION:waka-->

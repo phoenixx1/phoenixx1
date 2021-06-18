@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Web Development.
 - My Portfolio: [Portfolio](https://phoenixx1.github.io/)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishant-saxena-2609/)
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)   
 <!--START_SECTION:waka-->
 ```text

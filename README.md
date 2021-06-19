@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   18 hrs 28 mins  ██████████████████████▒░░   89.34 % 
-JSON         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript   18 hrs 56 mins  ███████████████████████░░   91.69 % 
+JSON         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 CSS          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-SCSS         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->

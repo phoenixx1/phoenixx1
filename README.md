@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development.
 - My Portfolio: [Portfolio](https://phoenixx1.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishant-saxena-2609/)  
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)   
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixx1&" alt="phoenixx1" /></p>  
 <!--START_SECTION:waka-->
 ```text
 JavaScript   10 hrs 48 mins  ███████████████████████░░   92.52 % 

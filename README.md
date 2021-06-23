@@ -25,3 +25,7 @@ HTML         28 mins         █░░░░░░░░░░░░░░░░
 CSS          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=phoenixx1&style=plastic)
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/phoenixx1/count.svg) -->

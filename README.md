@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixx1&" alt="phoenixx1" /></p>  
 <!--START_SECTION:waka-->
 ```text
-
+Twig    13 mins         ███████████████████░░░░░░   75.91 % 
+Other   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+YAML    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 <!--END_SECTION:waka-->
 

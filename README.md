@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixx1&" alt="phoenixx1" /></p>  
 <!--START_SECTION:waka-->
 ```text
-OpenEdge ABL   2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.57 % 
-Other          2 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.48 % 
-PHP            1 hr 51 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.96 % 
-YAML           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Twig           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+PHP            1 hr 55 mins    ██████████▒░░░░░░░░░░░░░░   40.89 % 
+OpenEdge ABL   1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   39.96 % 
+Other          41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Twig           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 <!--END_SECTION:waka-->
 

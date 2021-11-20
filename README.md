@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixx1&" alt="phoenixx1" /></p>  
 <!--START_SECTION:waka-->
 ```text
-Python       17 hrs 47 mins  ██████████████████▓░░░░░░   74.62 % 
-Other        4 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.86 % 
-JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JSX          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python       16 hrs 41 mins  ██████████████████▓░░░░░░   75.00 % 
+Other        2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JavaScript   1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+YAML         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 <!--END_SECTION:waka-->
 

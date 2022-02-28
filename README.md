@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishant-saxena-2609/)  
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixx1&" alt="phoenixx1" /></p>  
 <!--START_SECTION:waka-->
+
 ```text
-Python       7 hrs 42 mins   ██████████████▓░░░░░░░░░░   59.29 % 
-Other        3 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.76 % 
-JSON         1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Docker       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python       18 hrs 13 mins  █████████████████████░░░░   84.59 %
+JSON         2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+JavaScript   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=phoenixx1&style=plastic)

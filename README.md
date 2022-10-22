@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 34 mins   ██████████████░░░░░░░░░░░   56.12 %
-JavaScript   1 hr 47 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-JSON         1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Other        1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Python       5 hrs 33 mins   █████████████▓░░░░░░░░░░░   54.10 %
+JavaScript   1 hr 47 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Other        1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
 ```
 
 <!--END_SECTION:waka-->

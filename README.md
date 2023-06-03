@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixx1&count_private=true)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixx1&" alt="phoenixx1" /></p>  
 <!--START_SECTION:waka-->
 
-```text
-Python   1 min           █████████████████████████   100.00 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

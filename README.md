@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     26 hrs 2 mins   █████████████████████▒░░░   85.11 %
-Assembly       1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Python         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Other          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Objective-C    30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript     18 hrs 31 mins  ████████████████████▒░░░░   81.11 %
+Assembly       1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Python         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Objective-C    30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->

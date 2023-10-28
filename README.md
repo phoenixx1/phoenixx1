@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    21 hrs 7 mins   ███████████████████████▓░   94.14 %
-Bash          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-JSON          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript    20 hrs 33 mins  ████████████████████████░   95.46 %
+Bash          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JSON          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

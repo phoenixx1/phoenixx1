@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 30 mins   ██████████████░░░░░░░░░░░   55.92 %
-Python       2 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.80 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       3 hrs 5 mins    █████████████▓░░░░░░░░░░░   54.04 %
+TypeScript   2 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
+Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->

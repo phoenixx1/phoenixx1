@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 18 mins    ██████████████░░░░░░░░░░░   55.41 %
-Python       35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-HTML         22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

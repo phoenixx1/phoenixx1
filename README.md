@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         2 mins          ███████████████████████▒░   93.57 %
-TypeScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

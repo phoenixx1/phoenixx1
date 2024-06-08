@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   21 mins         ███████████████▓░░░░░░░░░   62.96 %
-YAML         9 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-JSON         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

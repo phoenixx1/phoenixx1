@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 2 mins     ████████████░░░░░░░░░░░░░   48.08 %
-Other        37 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 %
-Prisma       17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-SQL          11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other        37 mins         ████████████████████████▒   96.69 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->

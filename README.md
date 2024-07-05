@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       20 mins         ████████████████▒░░░░░░░░   65.51 %
-Other        6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-TypeScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

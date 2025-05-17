@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     4 hrs 46 mins   ████████████████▓░░░░░░░░   66.36 %
-Other      1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-JSON       33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Rust       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Bash       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Python       5 hrs 39 mins   ████████████████▒░░░░░░░░   65.77 %
+Other        1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+JSON         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+SSH Config   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Rust         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->

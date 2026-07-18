@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     8 hrs 10 mins         ███████████████▓░░░░░░░░░   62.67 %
-PlantUML   3 hrs 30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Other      42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON       38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python     7 hrs 28 mins         █████████████▓░░░░░░░░░░░   54.44 %
+PlantUML   4 hrs 36 mins         ████████▒░░░░░░░░░░░░░░░░   33.59 %
+JSON       45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Other      37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
